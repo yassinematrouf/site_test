@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset= "utf-8">
+
+
+
+
+	<title></title>
+</head>
+<body  bgcolor="yellow">
+
+
+	<h1> page 3 <h1>
+
+<a href="page_acceuil.html"> aller vers la page 1 </a>
+
+<h2> les tableaux en html </h2>
+
+<table border="1">
+	<tr>
+		<td> désignation </td> <td> Prix  </td> <td> image  </td>
+
+
+
+	</tr>
+
+	<tr>
+		<td> clavier </td> <td> 220 </td> <td> <img src="clavier.jpeg" height="50" width="50"> </td>
+
+
+
+	</tr>
+
+
+
+	<tr>
+		<td> souris </td> <td> 15 </td> <td> <img src="souris.jpeg" height="50" width="50"> </td>
+
+
+
+	</tr>
+
+
+
+		<tr>
+		<td> ecran </td> <td> 500 </td> <td> <img src="ecran.jpeg" height="50" width="50"> </td>
+
+
+
+	</tr>
+
+
+
+
+
+
+
+
+</table>
+
+
+
+</body>
+</html>
