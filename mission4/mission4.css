@@ -1,0 +1,59 @@
+.haut{
+	width: 100%;
+	align: center;
+	font-family: Arial;
+	font-size: 16px;
+
+}
+
+
+body{
+	background-color: grey;
+}
+
+.info{
+	float:left;
+}
+.photo{
+	float: right;
+	padding-top: 1px;
+}
+
+.Formation{
+	clear: both;
+}
+
+.annee{
+	float: left;
+}
+
+.etablissement{
+	float: right;
+	padding-right: 1000px;
+}
+
+.experience{
+	clear: both;
+}
+
+.datexp{
+	float: left;
+}
+
+.xp{
+	float: right;
+	padding-right: 700px;
+}
+
+.langage{
+	clear: both;
+}
+
+.nomlangage{
+	float: left;
+}
+
+.niveau{
+	float: right;
+	padding-right: 1400px;
+}
